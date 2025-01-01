@@ -23,7 +23,7 @@ Follow these steps to set up the project on your local machine:
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/gsd2209/Project_Management-Application.git
-cd Project
+cd ProjectNest
 ```
 
 ### 2. **Create a Virtual Environment**
