@@ -28,7 +28,7 @@ cd Project
 ### 2. **Create a Virtual Environment**
 ```bash
 python -m venv myenv
-source myenv/bin/activate  # On Windows: myenv\Scripts\activate
+source myenv/scripts/activate  # On Windows: myenv\Scripts\activate
 ```
 
 ### 3. **Install Dependencies**
