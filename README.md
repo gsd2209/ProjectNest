@@ -1,4 +1,5 @@
 # Project Management Application
+ProjectNest is a modern project management application designed to streamline team collaboration, task tracking, and project organization. It allows users to create and manage projects, assign tasks, set priorities, track progress, and communicate effectively through comments, all within a user-friendly interface. Built with robust authentication and a well-structured API, it offers a reliable and scalable solution for managing workflows efficiently.
 
 This README file provides instructions on how to set up the project locally, migrate the database, and run the server. It also includes API documentation for the available endpoints.
 
